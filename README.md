@@ -23,7 +23,7 @@ GPT-Neo 125M was trained on the Pile, a large scale curated dataset created by E
 
 ## Training procedure
 
-This model was trained for 572,300 steps on the Pile. It was trained as a masked autoregressive language model, using cross-entropy loss.
+This model was trained on the Pile for 300 billion tokens over 572,300 steps. It was trained as a masked autoregressive language model, using cross-entropy loss.
 
 ## Intended Use and Limitations
 
