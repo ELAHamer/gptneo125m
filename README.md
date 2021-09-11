@@ -84,23 +84,5 @@ To cite this model, use
   author={Gao, Leo and Biderman, Stella and Black, Sid and Golding, Laurence and Hoppe, Travis and Foster, Charles and Phang, Jason and He, Horace and Thite, Anish and Nabeshima, Noa and others},
   journal={arXiv preprint arXiv:2101.00027},
   year={2020}
-}```bibtex
-@article{gao2020pile,
-  title={The Pile: An 800GB Dataset of Diverse Text for Language Modeling},
-  author={Gao, Leo and Biderman, Stella and Black, Sid and Golding, Laurence and Hoppe, Travis and Foster, Charles and Phang, Jason and He, Horace and Thite, Anish and Nabeshima, Noa and others},
-  journal={arXiv preprint arXiv:2101.00027},
-  year={2020}
-}
-```
-
-To cite the codebase that this model was trained with, use
-
-```bibtex
-@software{gpt-neo,
-  author = {Black, Sid and Gao, Leo and Wang, Phil and Leahy, Connor and Biderman, Stella},
-  title = {{GPT-Neo}: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow},
-  url = {http://github.com/eleutherai/gpt-neo},
-  version = {1.0},
-  year = {2021},
 }
 ```
