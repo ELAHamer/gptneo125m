@@ -61,7 +61,9 @@ TBD
 
 To cite this model, use
 ```bibtex
+
 @software{gpt-neo,
+
   author       = {Black, Sid and
                   Leo, Gao and
                   Wang, Phil and
@@ -85,4 +87,5 @@ To cite this model, use
   journal={arXiv preprint arXiv:2101.00027},
   year={2020}
 }
+
 ```
