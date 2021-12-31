@@ -8,7 +8,7 @@ tags:
 - causal-lm
 license: apache-2.0
 datasets:
-- the Pile
+- The Pile
 ---
 
 # GPT-Neo 125M
