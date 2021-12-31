@@ -4,7 +4,6 @@ language:
 tags:
 - text generation
 - pytorch
-- the Pile
 - causal-lm
 license: apache-2.0
 datasets:
