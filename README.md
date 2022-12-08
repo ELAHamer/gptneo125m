@@ -5,9 +5,9 @@ tags:
 - text generation
 - pytorch
 - causal-lm
-license: apache-2.0
+license: mit
 datasets:
-- The Pile
+- the_pile
 ---
 
 # GPT-Neo 125M
